@@ -104,8 +104,3 @@ Certains modules nécessitent l'installation de bibliothèques standards via le 
 
 ---
 
-### 💡 Conseils pour ton GitHub :
-
-1. **Renommer les dossiers (Optionnel) :** Sur ton ordinateur, avant d'envoyer sur GitHub, tu pourrais uniformiser les noms (tout en minuscules, sans espaces, en anglais ou français uniquement). Par exemple, changer `active_buzze.ino` (qui semble être un fichier seul) en un dossier `active_buzzer`.
-2. **Ajouter des photos :** Si tu as des photos de tes montages réels, tu peux les ajouter dans le README, ça rend le projet beaucoup plus vivant !
-3. **Commentaires :** Assure-toi que tes codes `.ino` ont quelques commentaires expliquant ce que fait le programme (ex: `// Ce code fait clignoter la LED sur la pin 13`).
